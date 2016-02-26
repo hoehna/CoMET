@@ -1,0 +1,1 @@
+Rscript ~/repos/mass-extinction-simulation/dryad_package/simulation_2/run_scripts/runTessAnalysis.R ~/repos/mass-extinction-simulation/dryad_package/simulation_2 16 130 200 FALSE -0.09116078 0.4269913 -3.824846 1.744856 0.1 2
