@@ -1,4 +1,4 @@
-This data archive contains the scripts used to generate and analyze all the data in the accompanying manuscript (May et al., in review), as well as the simulated data that were analyzed for that work. The archive is broken into five subdirectores, each corresponding to one set of simulations/analyses performed in the manuscript. The descriptions of each subdirectory follow. 
+This data archive contains the scripts used to generate and analyze all the data in the accompanying manuscript (May et al., in review), as well as the simulated data that were analyzed for that work. The archive is broken into five subdirectories, each corresponding to one set of simulations/analyses performed in the manuscript. The descriptions of each subdirectory follow. 
 
 WARNING: these analyses are computationally expensive and very time consuming; we do not recommend recreating them on your personal computer!
 
